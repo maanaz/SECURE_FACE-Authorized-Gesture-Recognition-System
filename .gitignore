@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+
+Images/*
+!Images/.gitkeep
+
+gesture_dataset/
+
+.ipynb_checkpoints/
